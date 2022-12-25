@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reshukr
-- 👀 I’m interested in singing, writing & coding.
+- 👀 I’m interested in learning, writing & programming.
 - 🌱 I’m currently learning python & web devlopment.
 - 📫 How to reach me - twitter.com/reshukr
 
